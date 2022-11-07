@@ -1,2 +1,2 @@
-# password-generator-js
-Password Generator with HTML / CSS / JS
+
+# Password Generator with HTML / CSS / JS
